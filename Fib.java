@@ -30,6 +30,8 @@ public class Fib {
      class whose merit lies entirely in its methods, not in the class itself.
     */
 
+    //43 was the highest index in the Fib series whose number i could calculate
+    //using the recursive method.
 
     /**
       @return the nth Fibonacci number
